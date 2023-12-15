@@ -130,6 +130,8 @@ std::string decode(const std::vector<Node>& nodes, const std::string& encoded) {
     return decoded;
 }
 
+//
+
 /**
  * @brief Entry point of the program.
  *
